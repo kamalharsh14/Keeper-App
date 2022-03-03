@@ -43,21 +43,36 @@
   word-wrap: break-word;
 } */
 
-.navbar-center {
-  position: relative;
-  left: 50%;
-  transform: translatex(-50%);
+.navbar-allign {
+  transform: translatex(10%);
+  font-size: 30px;
 }
 
 .bg-custom{
-  background-color: #fcc40d;
-  box-shadow: 0px 0px 15px 0px black;
+  background-color: #ffcd2a;
+  box-shadow: 0px 0px 5px 0px black;
 }
 
 .text-color{
   color: white;
+  font-family: cursive;
 }
 
 .footer{
   text-align: center;
+}
+
+.card{
+  margin-top:8%;
+  width: 18rem;
+}
+
+.card-title{
+  font-size: larger;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.blockquote{
+  font-size: medium;
 }
