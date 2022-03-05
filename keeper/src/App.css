@@ -60,11 +60,18 @@
 
 .footer{
   text-align: center;
+  font-size: smaller;
+}
+
+.footerclass{
+  margin-top: 20px;
 }
 
 .card{
-  margin-top:8%;
-  width: 18rem;
+  margin-right: 2%;
+  margin-top: 1%;
+  width: 15rem;
+  float: left;
 }
 
 .card-title{
